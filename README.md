@@ -9,9 +9,9 @@ This repository accompanies the paper **"Generative AI for future manufacturing"
 
 ## 📖 Overview  
 This work provides:  
-1. A **systematic literature review** of 107 studies (2022–2025) on GenAI in manufacturing.  
-2. A **5-level taxonomy** categorizing GenAI integration depth (from Conversational Assistance to Innovation Creation).  
-3. A **GenAI-Driven Manufacturing Paradigm** .  
+1. A **systematic literature review** of 107 studies (2022–2025) on GenAI in manufacturing to establish a foundation for understanding GenAI's role in manufacturing.  
+2. A **5-level taxonomy** categorizing GenAI integration depth (from Conversational Assistance to Innovation Creation) to discuss rencent advancements, limitations and future endeavours of GenAI in manufacturing.  
+3. A **GenAI-Driven Manufacturing Paradigm** to depict our envision for future manufacturing and spark interdisciplinary debate on this emergent topic.  
 
 ![5-level GenAI implementation in manufacturing framework](figures/framework.png)  
 *Figure:  The five levels of GenAI implementation in manufacturing (from the paper).*
