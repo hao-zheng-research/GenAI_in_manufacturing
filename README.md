@@ -27,7 +27,7 @@ This work provides:
 ### Non-Research Articles
 | Date       | Paper Title | Summary | Link |  
 |------------|-------------|---------|------|  
-| 2024 | *"Generative AI-enabled supply chain management: The critical role of coordination and dynamism"* | International Journal of Production Economics | [DOI](10.1016/j.ijpe.2024.109388) |  
+| 2024 | *"Generative AI-enabled supply chain management: The critical role of coordination and dynamism"* | International Journal of Production Economics | [DOI](https://doi.org/10.1016/j.ijpe.2024.109388) |  
 
 
 ---
