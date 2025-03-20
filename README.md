@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1fb42a7c-f640-453a-8ba1-3919c539feb0)![image](https://github.com/user-attachments/assets/b4725162-ca62-4d41-b039-58a5f7caa6bd)![image](https://github.com/user-attachments/assets/37fa48df-543e-4a30-acc1-98840a24cdc3)![image](https://github.com/user-attachments/assets/58c02627-7ce6-4027-94d1-8e71ae9159d9)![image](https://github.com/user-attachments/assets/05a21f2d-6da2-426f-b788-27d2ae62df03)# GenAI_in_manufacturing
+# GenAI_in_manufacturing
 This is the repository for the paper "Generative AI for future manufacturing".
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
