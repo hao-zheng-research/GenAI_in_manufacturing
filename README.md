@@ -18,7 +18,10 @@ This work provides:
 
 ---
 
-## 🔍 Recent Advancements (Highlights)  
+## 🔍 Recent Advancements
+
+The complete literature corpus analyzed in this study is available in the [`/literature_list/`](/literature_list/) directory. Below, we highlight **seminal works** to help researchers track cutting-edge advancements in GenAI for manufacturing. This curated list will be updated regularly to reflect the rapidly evolving state of the field.
+
 ### Research Articles
 | Date       | Paper Title | Summary | Link |  
 |------------|-------------|---------|------|  
