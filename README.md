@@ -1,4 +1,4 @@
-# GenAI_in_manufacturing
+![image](https://github.com/user-attachments/assets/37fa48df-543e-4a30-acc1-98840a24cdc3)![image](https://github.com/user-attachments/assets/58c02627-7ce6-4027-94d1-8e71ae9159d9)![image](https://github.com/user-attachments/assets/05a21f2d-6da2-426f-b788-27d2ae62df03)# GenAI_in_manufacturing
 This is the repository for the paper "Generative AI for future manufacturing".
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
@@ -19,9 +19,15 @@ This work provides:
 ---
 
 ## 🔍 Recent Advancements (Under Construction)  
+### Research Articles
 | Date       | Paper Title | Summary | Link |  
 |------------|-------------|---------|------|  
+| 2024-03-15 | *"LLM-Driven Robotic Assembly Line Optimization"* | Uses GPT-4 for real-time scheduling in automotive plants. | [arXiv](link) |  
 
+### Non-Research Articles
+| Date       | Paper Title | Summary | Link |  
+|------------|-------------|---------|------|  
+| 2024 | *"Generative AI-enabled supply chain management: The critical role of coordination and dynamism"* | International Journal of Production Economics | [DOI](10.1016/j.ijpe.2024.109388) |  
 
 
 ---
