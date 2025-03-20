@@ -1,5 +1,5 @@
-# GenAI_in_manufacturing
-This is the repository for the paper "Generative AI for future manufacturing".
+# Generative AI for future manufacturing
+This is the repository for the paper "Generative AI for future manufacturing" (under review).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
