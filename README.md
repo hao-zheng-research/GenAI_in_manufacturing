@@ -22,7 +22,7 @@ This work provides:
 The complete literature corpus analyzed in this study is available in the [`/literature_list/`](/literature_list/) directory. Below, we highlight **seminal works** to help researchers track cutting-edge advancements in GenAI for manufacturing. This curated list will be updated regularly to reflect the rapidly evolving state of the field.
 
 ### Research Articles
-| Date       | Paper Title | Summary | Link |  
+| Date       | Paper Title | Source | Link |  
 |------------|-------------|---------|------|  
 | 2025 | *"Assessment of large language models for use in generative design of model based spacecraft system architectures"* | Journal of Engineering Design | [DOI](https://doi.org/10.1080/09544828.2025.2453401) |  
 | 2025 | *"4D printing of generative AI-assisted designs"* | Smart Materials and Structures | [DOI](https://doi.org/10.1088/1361-665X/ada83c) |  
@@ -52,7 +52,7 @@ The complete literature corpus analyzed in this study is available in the [`/lit
 
 
 ### Non-Research Articles
-| Date       | Paper Title | Summary | Link |  
+| Date       | Paper Title | Source | Link |  
 |------------|-------------|---------|------|  
 | 2024 | *"Generative AI-enabled supply chain management: The critical role of coordination and dynamism"* | International Journal of Production Economics | [DOI](https://doi.org/10.1016/j.ijpe.2024.109388) |  
 | 2024 | *"A methodological framework addressing challenges and opportunities in Supply Chain AI"* | IFAC-PapersOnLine | [DOI](https://doi.org/10.1016/j.ifacol.2024.09.236) |  
