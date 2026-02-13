@@ -8,7 +8,7 @@ This repository accompanies the paper **"Generative AI for future manufacturing"
 
 ## 📖 Overview  
 This work provides:  
-1. A **systematic literature review** of 107 studies (2022–2025) on GenAI in manufacturing to establish a foundation for understanding GenAI's role in manufacturing.  
+1. A **systematic literature review** of 200 studies (2022–2025) on GenAI in manufacturing to establish a foundation for understanding GenAI's role in manufacturing.  
 2. A **5-level taxonomy** categorizing GenAI integration depth (from Conversational Assistance to Innovation Creation) to discuss rencent advancements, limitations and future endeavours of GenAI in manufacturing.  
 3. A **GenAI-Driven Manufacturing Paradigm** to depict our envision for future manufacturing and spark interdisciplinary debate on this emergent topic.  
 
@@ -51,7 +51,7 @@ The complete literature corpus analyzed in this study is available in the [`/lit
 | 2024 | *"LLM enabled generative collaborative design in a mixed reality environment"* | Journal of Manufacturing Systems | [DOI](https://doi.org/10.1016/j.jmsy.2024.04.030) | 
 
 
-### Non-Research Articles
+### Secondary Articles
 | Date       | Paper Title | Source | Link |  
 |------------|-------------|---------|------|  
 | 2024 | *"Generative AI-enabled supply chain management: The critical role of coordination and dynamism"* | International Journal of Production Economics | [DOI](https://doi.org/10.1016/j.ijpe.2024.109388) |  
